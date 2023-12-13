@@ -1,2 +1,2 @@
 # DifferentCode
-Репозиторий для выгрузки тестового проекта
+Repository was created as a workspace for a coworkers from Social Community. 
